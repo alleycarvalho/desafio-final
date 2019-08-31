@@ -12,7 +12,7 @@ docker run -d --name desafio-final -p 8000:80 --rm alleycarvalho/desafio-final
 
 Verificar aplicação no browser (Local):
 
-**[http://localhost:8000/](http://localhost:8000/)**
+**[http://localhost:8000](http://localhost:8000)**
 
 ### Print da execução (CI) no Cloud Build:
 ![CI](/desafio-final-ci.png)
@@ -22,4 +22,4 @@ Verificar aplicação no browser (Local):
 
 Verificar aplicação no browser (Web):
 
-**[http://35.193.73.44/](http://35.193.73.44/)**
+**[http://35.193.73.44](http://35.193.73.44)**
